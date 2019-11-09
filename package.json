@@ -1,0 +1,28 @@
+{
+  "name": "alex-skill-ellie-quiz",
+  "version": "1.0.0",
+  "description": "Alexa skill for running an \"Ellie Quiz\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotomd/alex-skill-ellie-quiz.git"
+  },
+  "author": "Michael Rotoloni, Ellie Rotoloni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rotomd/alex-skill-ellie-quiz/issues"
+  },
+  "homepage": "https://github.com/rotomd/alex-skill-ellie-quiz#readme",
+  "devDependencies": {
+    "archiver": "^3.1.1",
+    "dotenv": "^8.2.0",
+    "jest": "^24.9.0",
+    "rimraf": "^3.0.0",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2"
+  }
+}
